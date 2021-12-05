@@ -1,5 +1,5 @@
 # scraping101_py
-An example of how to scrape a newspaper website using Python, requests and bs4.
+An example of how to scrape a newspapers' website using Python, requests and bs4.
 
 ## Usage
 
