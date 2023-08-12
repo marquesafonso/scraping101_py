@@ -9,7 +9,7 @@ The approach is amenable to feed downstream Natural Language Processing applicat
 
 ## Installation and set up
 
-Git and Python (you can change the version in Pipfile) is assumed. To set up run:
+Git and Python (you can change the version in Pipfile) installation is assumed. To set up run:
 
 ```
 git clone git@github.com:marquesafonso/scraping101_py.git
