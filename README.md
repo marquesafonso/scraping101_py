@@ -5,7 +5,7 @@ An example of how to scrape a newspapers' website using Python, requests and bs4
 
 This small project is meant to exemplify how one can easily scrape a newspaper website - this is a free access website, you'd use selenium should log in actions be required - to retrieve articles and respective content, writing the results to a csv file with one article per line.
 
-The approach is ammenable to feed downstream Natural Language Processing applications, especially if combined with the Mediacloud API endpoint for identifying article urls of interest.
+The approach is amenable to feed downstream Natural Language Processing applications, especially if combined with the Mediacloud API endpoint for identifying article urls of interest.
 
 ## Installation and set up
 
